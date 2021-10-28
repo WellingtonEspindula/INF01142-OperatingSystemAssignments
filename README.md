@@ -1,5 +1,5 @@
-# INF01142-OperationSystemsAssignments
-Operational Systems IN Assignments.
+# [INF01142] Operating Systems' Assignments
+Operating Systems I-N Assignments.
 
 ## Assignment 1: Android Processes Overview
 Study Case about Android Processes including processes, scheduler, processes system development and processes monitoring.<br>
